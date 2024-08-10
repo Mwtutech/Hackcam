@@ -3,7 +3,7 @@
 Hack Android or Ios devices camera with a single phishing link using this awesome tool
 
 <p align="center">
-<a href="https://github.com/V1CK3Y2"><img title="Author" src="https://img.shields.io/badge/Author-V1CK3Y2-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MWTU"><img title="Author" src="https://img.shields.io/badge/Author-MWTU-red.svg?style=for-the-badge&logo=github"></a>
 <a href="Bash"><img title="5.1" src="https://img.shields.io/badge/Bash-5.1-lightgreen.svg?style=for-the-badge&logo=bash"></a>
 </p>
 
@@ -23,7 +23,7 @@ git clone https://github.com/mwtutech/HackCam
 cd HackCam
 ls
 chmod 777 hackcam.sh
-bash hackcam.sh.sh
+bash hackcam.sh
 ```
 ## HackCam in Terminal
 
