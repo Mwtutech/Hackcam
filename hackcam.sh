@@ -10,7 +10,7 @@ printf "\e[1;93m  |  __  |/ _  |/ __| |/ / |    / _  |  _   _ \  \e[0m \n"
 printf "\e[1;93m  | |  | | (_| | (__|   <| |___| (_| | | | | | | \e[0m \n"
 printf "\e[1;93m  |_|  |_|\__ _|\___|_|\_\\_____\__ _|_| |_| |_| v1.0\e[0m \n"
 
-printf " \e[1;92m Coded By V1CK3Y2 \e[0m \n"
+printf " \e[1;92m Coded By MWTU \e[0m \n"
 printf "\n"
 
 
